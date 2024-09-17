@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "运用大整数乘法计算大数阶乘and结果含0个数", "运用大整数乘法计算大数阶乘and结果含0个数\运用大整数乘法计算大数阶乘and结果含0个数.vcxproj", "{9379B9CB-E3F9-44EE-A7FA-2C8C8186B026}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloVisualStudio", "HelloVisualStudio\HelloVisualStudio.vcxproj", "{D3FB97BF-4826-4CD7-ADEC-EBF42C016152}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{9379B9CB-E3F9-44EE-A7FA-2C8C8186B026}.Release|x64.Build.0 = Release|x64
 		{9379B9CB-E3F9-44EE-A7FA-2C8C8186B026}.Release|x86.ActiveCfg = Release|Win32
 		{9379B9CB-E3F9-44EE-A7FA-2C8C8186B026}.Release|x86.Build.0 = Release|Win32
+		{D3FB97BF-4826-4CD7-ADEC-EBF42C016152}.Debug|x64.ActiveCfg = Debug|x64
+		{D3FB97BF-4826-4CD7-ADEC-EBF42C016152}.Debug|x64.Build.0 = Debug|x64
+		{D3FB97BF-4826-4CD7-ADEC-EBF42C016152}.Debug|x86.ActiveCfg = Debug|Win32
+		{D3FB97BF-4826-4CD7-ADEC-EBF42C016152}.Debug|x86.Build.0 = Debug|Win32
+		{D3FB97BF-4826-4CD7-ADEC-EBF42C016152}.Release|x64.ActiveCfg = Release|x64
+		{D3FB97BF-4826-4CD7-ADEC-EBF42C016152}.Release|x64.Build.0 = Release|x64
+		{D3FB97BF-4826-4CD7-ADEC-EBF42C016152}.Release|x86.ActiveCfg = Release|Win32
+		{D3FB97BF-4826-4CD7-ADEC-EBF42C016152}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
